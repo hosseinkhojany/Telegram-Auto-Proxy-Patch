@@ -1,7 +1,7 @@
 # Telegram-Auto-Proxy-Patch
 
 
-put ProxyCode.txt content in here ProxyListActivity.java<br>
+put ProxyCode.java content in here ProxyListActivity.java<br>
 
 put this code here -> LauncherActivity.java -> end of method onResume()
 
@@ -13,7 +13,7 @@ put this code here -> LauncherActivity.java -> end of method onResume()
 -------------------------------------FARSI------------------------------------------------------------------
 
 <br>
-کد های داخل ProxyCode.txt را داخل فایل RroxyListActivity.java قرار بدید
+کد های داخل ProxyCode.java را داخل فایل RroxyListActivity.java قرار بدید
 <br>
  قرار بدید کد پایین را در اینجا -> LauncherActivity.java -> end of method onResume<br>
  
