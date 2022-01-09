@@ -1,23 +1,23 @@
 # Telegram-Auto-Proxy-Patch
 
 
-put ProxyCode.txt content in here ProxyListActivity.java
+put ProxyCode.txt content in here ProxyListActivity.java<br>
 
 put this code here -> LauncherActivity.java -> end of method onResume()
 
-  //mycode
+  //mycode<br>
   ProxyListActivity.MyPostJobs(getBaseContext(), this, currentAccount);
 
-
+<br>
 
 -------------------------------------FARSI------------------------------------------------------------------
 
+<br>
+کد های داخل ProxyCode.txt را داخل فایل RroxyListActivity.java <br>قرار بدید
 
-کد های داخل ProxyCode.txt را داخل فایل RroxyListActivity.java قرار بدید
-
- قرار بدید کد پایین را در اینجا -> LauncherActivity.java -> end of method onResume
+ قرار بدید کد پایین را در اینجا -> LauncherActivity.java -> end of method onResume<br>
  
-  //mycode
+  //mycode<br>
   ProxyListActivity.MyPostJobs(getBaseContext(), this, currentAccount);
         
 
