@@ -13,8 +13,8 @@ put this code here -> LauncherActivity.java -> end of method onResume()
 -------------------------------------FARSI------------------------------------------------------------------
 
 <br>
-کد های داخل ProxyCode.txt را داخل فایل RroxyListActivity.java <br>قرار بدید
-
+کد های داخل ProxyCode.txt را داخل فایل RroxyListActivity.java قرار بدید
+<br>
  قرار بدید کد پایین را در اینجا -> LauncherActivity.java -> end of method onResume<br>
  
   //mycode<br>
